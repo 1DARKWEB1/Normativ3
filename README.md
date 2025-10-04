@@ -94,13 +94,10 @@ python
 
 ## 🛠 Пример работы бота
 
-Пример 1
 <img width="1273" height="819" alt="image" src="https://github.com/user-attachments/assets/383db026-7fcf-4f32-832a-54cbcbc222da" />
 
-Пример 2
 <img width="930" height="989" alt="image" src="https://github.com/user-attachments/assets/cfaa0cc0-73c3-4289-a8eb-6af03c7d27b8" />
 
-Пример 3
 <img width="948" height="692" alt="image" src="https://github.com/user-attachments/assets/294f0bed-824e-4c6e-9f78-57e4174ef496" />
 
 
